@@ -12,3 +12,8 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+
+.banner {
+  width: 100%;
+  height: auto;
+}
